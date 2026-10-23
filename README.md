@@ -1,7 +1,3 @@
----
-order: 3
-title: 1C_AI_Core
----
 
 # 1C_AI_Core
 
