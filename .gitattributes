@@ -1,0 +1,8 @@
+* text=auto
+*.py text eol=lf
+*.bsl text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+.env.example text eol=lf
+*.cfe binary
+*.xlsx binary
